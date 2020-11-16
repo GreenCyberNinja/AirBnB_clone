@@ -1,0 +1,32 @@
+.filters{background-color: white;
+    height: 70px;
+    width: 100%;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;}
+h3 {font-weight: 600;margin: 8%;}
+h4 {font-weight: 400;margin: 8%;}
+.locations{height: 100%;
+    text-align: center;
+    width: 25%;
+    border-right: 1px solid #DDDDDD;
+    margin: 0;
+    position: absolute;}
+.amenities{height: 100%;
+    text-align: center;
+    width: 25%;
+    margin: 0;
+    position: absolute;
+    right: 50%;}
+.butpos{margin: 0;
+    position: absolute;
+    top: 20%;
+    width: inherit;
+    right: -75%;}
+button{background-color: #FF5A5F;
+    font-size: 18px;
+    height: 48px;
+    border-radius: 4px;
+    width: 20%;
+    color: #ffffff;
+    border: 0px; }
+button:hover {opacity: 0.5;}
